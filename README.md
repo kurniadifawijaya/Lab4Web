@@ -17,9 +17,3 @@ pada praktikum kali ini sya akan membuat box element
 selanjutnya yang harus kita lakukan adalah Mengatur Clearfix Element
 
 ![Mengatur Clearfix Element](gambar2.PNG)
-
-3. **Membuat Layout Sederhana**
-
-seteleh mengatur Clearfix Element selanjutnya kuta membuat layout sederhana
-
-![Membuat Layout Sederhana]()
